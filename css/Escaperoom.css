@@ -1,0 +1,84 @@
+#Aliengif{
+	display: none;
+    left: 0; right:0;
+    margin: auto;
+    max-width: 50%;
+    height: auto;
+} 
+#vragen {
+    display: none;
+}
+.imgVoorbeeld {
+    max-width: 100%;
+}
+
+.vragen {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: stretch;
+
+}
+.img-rounded {
+    max-width: 10rem;
+    margin: 0 auto;
+}
+#foutBtn {
+    font-size: 3rem;
+}
+.alert-danger{
+    opacity: 0.9;
+}
+.display-3, .display-4, p, .display-1 {
+    color: white;
+}
+p {
+    font-size: 3rem;
+}
+#introText {
+    font-size: 1.5rem;
+}
+#moneyPic {
+    max-width: 500px;
+}
+#lostImg {
+    max-width: 300px;
+}
+.btn-dark {
+    background-color: white;
+}
+.affiche{
+    width: 200px;
+}
+.imgCenter{
+    margin: 0 auto;
+}
+#body    {
+    background-color: black;
+    background-image: url(/img/spacebg.jpg);
+}
+#startButton {
+    color: white;
+    background-color: black;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+#startButton:hover {
+    background-color: white;
+    color: black;
+}
+#red {
+    color: red;
+    font-weight: 600;
+}
+
+.vragen > a {
+    padding: 1rem;
+    margin: 1rem;
+}
+.centerFlex {
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}

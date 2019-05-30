@@ -1,4 +1,5 @@
 'use strict';
+
 function startTimer(duration, toonTijd) {
     var timer = duration,
         minutes, seconds;

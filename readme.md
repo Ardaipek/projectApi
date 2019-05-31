@@ -8,7 +8,8 @@ This is a school project. The purpose is to work with DOM and API.
 3. Make sure you have a web server tool (Web Server for Chrome
  [link](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en))
 4. Choose your unzipped folder as root folder with Web Server for Chrome tool.
-5. Go to index.html
+5. Go to the web server url underneath your choosen map (Chrome tool)
+6. Go to index.html
 
 
 ## Contributing
